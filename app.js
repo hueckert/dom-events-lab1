@@ -1,0 +1,15 @@
+//console.log("santiy check")
+
+/*-------------------------------- Constants --------------------------------*/
+const buttons = document.querySelectorAll('.button');
+const calculator = document.querySelector('#calculator');
+const display = document.querySelector(".display")
+const buttonOperator = document.querySelector(".button operator")
+
+/*-------------------------------- Variables --------------------------------*/
+
+/*------------------------ Cached Element References ------------------------*/
+
+/*----------------------------- Event Listeners -----------------------------*/
+
+/*-------------------------------- Functions --------------------------------*/
