@@ -8,6 +8,11 @@ const buttonOperator = document.querySelector(".button operator")
 
 /*-------------------------------- Variables --------------------------------*/
 
+let firstIput = null
+let secondInput = null
+let operator = null
+let result = null
+
 /*------------------------ Cached Element References ------------------------*/
 
 /*----------------------------- Event Listeners -----------------------------*/
