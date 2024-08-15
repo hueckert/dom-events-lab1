@@ -17,4 +17,8 @@ let result = null
 
 /*----------------------------- Event Listeners -----------------------------*/
 
+calculator.addEventListener('click', (event)=>{
+
+})
+
 /*-------------------------------- Functions --------------------------------*/
